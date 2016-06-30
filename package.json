@@ -1,0 +1,32 @@
+{
+  "name": "netease-music-api",
+  "version": "0.0.1",
+  "description": "Unofficial NetEaseMusic API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaning/netease-music-api.git"
+  },
+  "keywords": [
+    "neteasemusic",
+    "163music",
+    "netease",
+    "wangyimusic"
+  ],
+  "author": {
+    "name": "Alex Sun",
+    "email": "syaningv@gmail.com",
+    "url": "syaning.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syaning/netease-music-api/issues"
+  },
+  "homepage": "https://github.com/syaning/netease-music-api#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
